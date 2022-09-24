@@ -48,6 +48,6 @@ for (int i = 0; i < numbers.GetLength(0); i++)
             }
         }
 
-    }
+} //ссылка на скрин https://postimg.cc/z32bhYgc
 
 
